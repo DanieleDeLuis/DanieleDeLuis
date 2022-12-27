@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### About Me
+### Hi there 👋 Here something about Me
 I am a Full Stack Developer 👨🏻‍💻
 - 🔭 I’m currently working on a big cool project.
 - 🌱 I’m currently develping an opensource plugin.
